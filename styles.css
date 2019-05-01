@@ -36,12 +36,14 @@ p {
   letter-spacing: 0.5px;
   color: black;
   width: 700px;
-  /* border: 1px solid red; */
   margin: 20px 20px 20px 20px;
 }
 img{
   margin: 0px 0px 20px 0px;
 }
 footer {
+  font-size: 12px;
+  text-align: left;
+  font-weight: bold;
   padding: 20px 20px 20px 20px;
 }
